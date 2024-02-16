@@ -1,0 +1,40 @@
+14/2/2024
+CONCEPTOS BASICOS DE LA CARRERA
+-Que es software? programs de ordenador y la documentacions asociada. Las productos de software se pueden desarrollar para algun cliente en particular o para un mercado general
+-Que es git?
+-Que es compilador?
+-Ciclo de desarrollo
+-Que es un lenguaje de programacion
+-Configurando Github
+-software
+-ingenieria de software
+-programacion
+trarea, definicion propia y formal(la definicon formal debe estar en formato APA)
+
+HOY COMO COMENZAR UN PROYECTO DE SOFTWARE?
+
+-Necesito saber lo que necesita el cliente
+ Un documento de especificacon de requisitos de software es una DESCRIPCION DETALLADA
+-Que es un docuemnto de especificaicon de requisitos de software?
+ SRS en ingles o ERS en espanol,se enumeran los requisitos, la expectativas , el diseno y los estandares de un proyecto futuro
+-Por que conviene usar una especificaion de requeisito de software?
+ Si los desarrolladores no tienet instricciones claras con respecto a cuando crear un productio nuevo, el tiempo y el dinero varia mucho
+ Es un documento dinamico, para las partes interesadas
+-Sintaxis de lnguaje de marcado(Markdown)
+
+Tarea
+escribir los subpuntos en un txt
+
+Git branches o ramas Git(Fotos tomadas)
+-Wiki
+ Un wiki es un sitio disaenado para que grupos de ususarios puedan crear paginas sencillas y cincularlasentre si para captuar y compartir ideas rapudamente.
+ 
+Tarea para la clase MIE 21 Feb
+Tener los siguientes conceptos con su propia definicion y una definicon formal
+
+-Que es una pagina web?
+
+
+-Pasos para completar un proyecto
+
+ 
