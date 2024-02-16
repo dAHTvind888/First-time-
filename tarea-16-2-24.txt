@@ -1,0 +1,90 @@
+SOFTWARE
+-Definicion propia
+Es un conjunto o conjuntos de programas computacionales con procedimientos que indican como llevar a cabo una accion.
+-Definicion formal
+Conjunto de programas, instrucciones y reglas informáticas para ejecutar ciertas tareas en una computadora.
+Real Academica Española. (s.f). Definicion de "Software". En el diccionario de la lengua española. Recuperado el 15 de febrero, 2024, en https://dle.rae.es/software?m=form
+
+
+INGENIERÍA DE SOFTWARE
+-Definicion propia
+Es una disciplina que combina el analisis y contruscion de software para dar soluciones a través de programas de software
+-Definicion formal
+Ingeniería de software es el estudio de los principios y metodologías para el desarrollo y mantenimiento de sistemas software (Zelkovitz, 1978).
+
+
+GIT
+-Defincion propia
+Es un software que rastrea los cambios hechos en un archivo
+-Definicion formal
+Git es un sistema de control de versiones distribuido gratuito y de código abierto diseñado para manejar todo, desde proyectos pequeños hasta proyectos muy grandes con velocidad y eficiencia. 
+Software Freedom Conservancy. (s.f). Definicion de "Git". Git --everything-is-local. Recuperado el 16 de febrero, 2024, en https://git-scm.com/
+
+
+PRORGAMACIÓN
+-Definicion propia
+Es la accion que involucra organizar y dar instrucciones a una maquina para obtener un resultado en especifico
+-Definicion formal
+Programación es la acción de programar que implica ordenar, estructurar o componer una serie de acciones cronológicas para cumplir un objetivo. 
+Significados, Equipo (13/02/2024). "Programación". En: Significados.com. Disponible en: https://www.significados.com/programacion/ Consultado: 16 de febrero de 2024, 10:41 am.
+
+
+LENGUAJE DE PROGRAMACIÓN
+-Definicion propia
+Es un lenguaje que permite comunicarce con una maquina e instruirle reglas o acciones para conceguir un objectivo
+-Definicion formal
+Es un conjunto de reglas gramaticales (tanto sintácticas como semánticas) que instruyen a que un ordenador o dispositivo se comporte de una cierta manera.
+(s.n). (s.f). Definicion de "lengauje de programación". Chakray. Recuperado el 16 de febrero, 2024, en https://www.chakray.com/es/lenguajes-programacion-tipos-caracteristicas/#:~:text=%C2%BFQu%C3%A9%20es%20un%20lenguaje%20de,comporte%20de%20una%20cierta%20manera.
+
+
+Compilador
+-Definicion propia
+Es una herramienta que permite la traduccion de el codigo escrito en un lenguaje de programacion a codigo binario para la maquina
+-Definicion formal
+Un programa de computadora que traduce un conjunto completo de instrucciones escritas en un lenguaje simbólico de nivel superior (como C) al lenguaje de máquina antes de que las instrucciones puedan ejecutarse. 
+Merriam-Webster. (n.d.). Compiler. In Merriam-Webster.com dictionary. Retrieved February 16, 2024, from https://www.merriam-webster.com/dictionary/compiler
+
+
+Ciclo de desarrollo de software y sus componentes
+
+*Planificación
+-Definicion propia
+El primer paso, donde se define con el cliente que es lo que se busca, los posibles riesgo así como el tiempo y dinero a invertir en el proyecto.
+-Definicion formal
+Esta será una de las primeras fases, en la cual, se trazan objetivos y se valoran las necesidades del proyecto en cuestión. Las tareas iniciales consisten en realizar un estudio de viabilidad, analizar los riesgos que puede comportar el proyecto y planificar todas las fases posteriores.
+(s.n). (s.f). Fase de Planificación. Evotic. Recuperado el 16 de feberero, 2024, en https://evotic.es/software-a-medida/ciclo-de-vida-del-software/
+
+*Analisis
+-Definicion propia
+En este paso definimos los requerientos y la finalidad, así como las caracteristicas del proyecto con el equipo de desarrollo.
+-Definicion formal
+En la fase de análisis de un proyecto definimos que funciones ejecutará el software y cuáles son sus características específicas. Este aspecto es clave a la hora de optimizar la asignación de costes y determinar la envergadura del proyecto.
+(s.n). (s.f). Fase de Análisis. Evotic. Recuperado el 16 de feberero, 2024, en https://evotic.es/software-a-medida/ciclo-de-vida-del-software/
+
+*Diseño
+-Definicion propia
+Con la informacion recolectada previa, el equipo decide la estructura e interfaz del proyecto.
+-Definicion formal
+Una vez que disponemos de toda la información que precisa nuestro proyecto, estudiaremos las posibles alternativas y estableceremos la estructura de la base de datos, la lógica del flujo de datos y la interfaz de usuario de la aplicación.
+(s.n). (s.f). Diseño y estructura del software. Evotic. Recuperado el 16 de feberero, 2024, en https://evotic.es/software-a-medida/ciclo-de-vida-del-software/
+
+*Implementacion
+-Definicion propia
+En este paso, empezamos codificadon el proyecto, decidiendo el lenguaje de programacion a usar, aunque no siempre es necesario el programar.
+-Definicion formal
+Cuando ya hemos definido la estructura de nuestro software, llega el momento de empezar con la programación. Escoger el lenguaje de programación adecuado a nuestro proyecto y disponer de un equipo de programadores expertos es fundamental. Seguir el código de buenas prácticas permitirá que nuestro proyecto sea fácilmente escalable.
+(s.n). (s.f). Fase de Desarrollo de un Software. Evotic. Recuperado el 16 de feberero, 2024, en https://evotic.es/software-a-medida/ciclo-de-vida-del-software/
+
+*Pruebas
+-Definicion propia
+En esta etapa, ponemos a prueba el proyecto a traves de varios testeos para así encontrar errores y corregirlos
+-Definicion formal
+Una vez terminado el proceso de desarrollo empieza el testeo y la fase de pruebas de la aplicación. En esta etapa ponemos a prueba los errores que hayan podido aparecer en las etapas anteriores. Es una fase de corrección, eliminación y perfeccionamiento de posibles fallos, no previsto en los pasos previos.
+(s.n). (s.f). Fase de Pruebas. Evotic. Recuperado el 16 de feberero, 2024, en https://evotic.es/software-a-medida/ciclo-de-vida-del-software/
+
+*Mantenimiento
+-Definicion propia
+Esta es la etapa final donde el proyecto funciona correctamente, aun asi este puede quedar obsoleto, es por eso la necesidad del mantenimiento.
+-Definicion formal
+En este periodo el software ya está en funcionamiento. Con el tiempo alguna función puede quedar obsoleta, pueden detectarse algunas limitaciones o que aparezcan propuestas que mejoren la estabilidad del proyecto.
+(s.n). (s.f). Fase de Mantenimiento. Evotic. Recuperado el 16 de feberero, 2024, en https://evotic.es/software-a-medida/ciclo-de-vida-del-software/
