@@ -1,0 +1,37 @@
+Formato wiki
+
+Documentos de especificacion de requisitos de software - Caso especial cliente
+
+# 1. Introducción
+Este documento esta dirigido al cliente que busca tener un mayor alcance de ventas, y un mejor control de estas.
+
+# 1.1 Alcance del producto
+Objetivos:
+-Crear una pagina sencilla de accesso directo a sus mejores productos o servicios para generar mayores ventas al cliente.
+
+Objetivos Generales y previstos:
+-Mayor facilidad y eficacia de ventas.
+-Mejor administracion y control de las ventas.
+-Un alcance mas amplio hacia los consumidores.
+
+Objetivos Comerciales y beneficios:
+-Mayor numero de clientes y ventas.
+
+Metas: 
+-Una pagina web estilo linktree.
+-Reportes mensuales de la metricas de la pagina.
+
+# 1.2 Valor del producto
+-Mayor alcance al publico.
+-Despible de informacion detallada de sus productos y servicios.
+
+# 1.3 Publico Objetivo
+(A definir por el cliente, se espera que el publico este en un rango entre 15-35 años).
+
+# 1.4 Uso previsto
+-Un acceso directo a los productos.
+-Facilidad para realizar la compra de productos.
+-Informacion detallada de cada de los productos, esto incluye fotos y videos del uso del producto.
+
+# 1.5 Descripcion General
+Sitio web de tipo linktree que proporciona facilidad de ventas, un mayor alcance del publico y metricas de actividades realizadas en la pagina web.
