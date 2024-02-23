@@ -1,0 +1,85 @@
+GIT INIT
+-Definicion propia
+Es un comando de line que crea un repositorio git vacío.
+-Definicion formal
+Este comando crea un repositorio Git vacío. Básicamente un directorio .git con subdirectorios para objects, reas/heads, reos/tags, y ficheros de plantillas. Se creará una rama inicial sin confirmaciones (ver la opción --initial-branch abajo por su nombre).
+Git. (s.f). git-init. Git Documentation. Recuperado el 20 de febrero, 2024, https://git-scm.com/docs/git-init/es .
+
+
+GIT CONFIG
+-Definicion propia
+Es un comando de linea que te permite asignarle un user.name y un user.email
+-Definicion formal
+Puede consultar/establecer/reemplazar/desarmar opciones con este comando. El nombre es en realidad la sección y la clave separadas por un punto, y el valor se escapará.
+Git. (s.f). git-config. Git Documentation. Recuperado el 20 de febrero, 2024, https://git-scm.com/docs/git-config .
+
+
+GIT ADD
+-Definicion propia
+Es un comando que permite añadir documentos a un repositorio local.
+-Definicion formal
+Éste comando actualiza el índice usando el contenido actual encontrado en el árbol de trabajo, para alistar el contenido preparado para la siguiente confirmación. Típicamente agrega el contenido actual a las rutas existentes como un todo, pero con algunas opciones puede usarse también para agregar contenido con sólo una parte de los cambios hechos a los ficheros del árbol de trabajo, o quitar rutas que ya no existen en el árbol de trabajo.
+Git. (s.f). git-add. Git Documentation. Recuperado el 20 de febrero, 2024, https://git-scm.com/docs/git-add/es . 
+
+
+GIT COMMIT
+-Definicion propia
+Es un comando para confirmar los cambios a adiciones hechas.
+-Definicion formal
+Crea una nueva confirmación con el contenido actual del índice y el mensaje de bitácora dado que describe los cambios. La nueva confirmación es un hijo directo de HEAD, usualmente la punta de la rama actual, y la rama es actualizada para apuntar a ella (a menos que no haya una rama asociada con el árbol de trabajo, en cuyo caso HEAD se "desprende" como se describe git-checkout[1]).
+Git. (s.f). git-commit. Git Documentation. Recuperado el 20 de febrero, 2024, https://git-scm.com/docs/git-commit/es
+
+
+GIT PUSH
+-Definicion propia
+Es un comando para mover los documentos del repositorio local al repositorio de GitHub en la nube.
+-Definicion formal
+Actualiza las referencias remotas utilizando referencias locales, mientras envía los objetos necesarios para completar las referencias dadas.
+Git. (s.f). git-push. Git Documentation. Recuperado el 20 de febrero, 2024, https://git-scm.com/docs/git-push .
+
+
+GIT PULL
+-Definicion propia
+Es un comando que toma los cambios hechos en un repositorio aparte y los incorpora al main branch.
+-Definicion formal
+Incorpora cambios de un repositorio remoto a la rama actual. Si la rama actual está detrás del control remoto, entonces, de forma predeterminada, avanzará rápidamente la rama actual para que coincida con el control remoto.
+Git. (s.f). git-pull. Git Documentation. Recuperado el 20 de febrero, 2024, https://git-scm.com/docs/git-pull .
+
+
+GIT BRANCH
+-Definicion propia
+Es un comando que nos permite manipular branches en un repositorio git.
+-Definicion formal
+Git branches are effectively a pointer to a snapshot of your changes. When you want to add a new feature or fix a bug—no matter how big or how small—you spawn a new branch to encapsulate your changes.
+Atlassian. (s.f). git bash. Using Branches(Git branch). Recuperado el 20 de febrero, 2024, https://www.atlassian.com/git/tutorials/using-branches#:~:text=In%20Git%2C%20branches%20are%20a,branch%20to%20encapsulate%20your%20changes.
+
+
+GIT CHECKOUT
+-Definicion propia
+Es un comando usado para moverse entre branches diferentes.
+-Definicion formal
+El comando git checkout te permite desplazarte entre las ramas creadas por git branch
+Atalassian. (s.f). git checkout. Flujos de trabajo colaborativos. Recuperado el 20 de febrero, 2024, https://www.atlassian.com/es/git/tutorials/using-branches/git-checkout#:~:text=El%20comando%20git%20checkout%20te,confirmaciones%20nuevas%20en%20dicha%20rama.
+
+
+GITHUB
+-Definicion propia
+Es una plataforma que permite almacenar, compartir y crear codigo entre los desarrolladores de aplicaciones o software.
+-Definicion formal
+GitHub is a web-based version control and collaboration platform for software developers.
+Ben Lutkevich. February 2023. GitHub. Definition GitHub. Recuperado el 20 de febrero, 2024, https://www.techtarget.com/searchitoperations/definition/GitHub
+
+GITHUB PAGES
+-Definicion propia
+Funciona como un sitio que toma archivos HTML, CSS, JavaScript desde tu reposirtorio de GitHub.
+-Definicion formal
+GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
+GitHub Docs. (s.f). GitHub Pages. About GitHub Pages. Recuperado el 20 de febrero, 2024, https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages.
+
+
+WIKI
+-Definicion propia
+Un wiki es un sitio diseñado para que grupos de ususarios puedan crear paginas sencillas y cincularlas entre si para captuar y compartir ideas rapidamente.
+-Definicion formal
+Un sitio web que permite a los visitantes realizar cambios, contribuciones o correcciones.
+Merriam-Webster. (s.f.). Wiki. In Merriam-Webster.com dictionary. Recuperado el 20 de febrero, 2024, from https://www.merriam-webster.com/dictionary/wiki
